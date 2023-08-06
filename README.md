@@ -12,9 +12,7 @@ The goal is to find information that verify the following hypothesis:
 1. Full Moon triggers a positive market change.  
 3. There is a combination between a specific moon phase and zodiac sign that rule the positive market days.  
 2. Lunar or Solar Eclipses can trigger a crash or a bull run.  
-3. Lunar and Solar Eclipses have a considerable influence in the volume.  
-
-The .twb file contains the dashboards with the visual analyses.  
+3. Lunar and Solar Eclipses have a considerable influence in the volume.   
 
 # Methods  
 * Filtering  
